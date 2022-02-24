@@ -1,0 +1,20 @@
+.link {
+    display: block;
+    font-family: $font-family-custom;
+    color: $curious_blue;
+
+    font-size: $font-size-link;
+    line-height: $line-height-normal;
+
+    &:hover {
+        text-decoration: underline;
+    }
+
+    &:focus {
+        color: rgba($curious_blue, .5);
+        text-decoration: underline;
+    }
+
+    font-size: $font-size-small;
+
+}

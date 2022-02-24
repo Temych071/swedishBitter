@@ -1,0 +1,84 @@
+/**
+* Colors
+*
+* Название переменной конкретного цвета генерируется через сервис: http://chir.ag/projects/name-that-color/.
+* Значение цвета всегда указывается в HEX-формате в нижнем регистре (кроме исключительных случаев).
+*/
+// Пример указания цветов
+
+
+
+/**
+* Fonts
+*/
+$font-size-base: 16px;
+$font-family-custom: "Roboto-Regular";
+$font-family-medium: 'Roboto-Medium';
+$font-weight-regular: 400;
+$font-weight-medium: 500;
+$font-weight-bold: 700;
+$font-path: '../fonts';
+
+$font-size-huge: 30px;
+$font-size-large: 24px;
+$font-size-medium: 20px;
+$font-size-link: 18px;
+$font-size-normal: 16px;
+$font-size-small: 14px;
+
+$line-height-default: 1.7;
+$line-height-normal: 1.4;
+$line-height-small: 1.2;
+
+
+/**
+* Breakpoints
+*/
+// Пример указания медиазапросов, затем можно использовать ее как '@media #{$screen-medium} {...}'
+$screen-small: 'min-width: 375px';
+$screen-medium: 'min-width: 768px';
+$screen-large: 'min-width: 992px';
+
+
+/**
+* Layout
+*/
+$container-padding: 0 20px;
+$container-margin: 0 auto;
+$container-max: 1280px;
+$container-min: 375px;
+
+$title-margin: 20px 0;
+$blockquote-padding: 20px 25px;
+
+$margin-small: 5px;
+$margin-normal: 10px;
+$margin-large: 15px;
+$margin-huge: 20px;
+
+/**
+* Sizes
+*/
+
+
+/**
+* Transitions and Animations
+*/
+
+
+
+/**
+* Radius
+*/
+
+
+/**
+* Box-shadows
+*/
+
+
+
+/**
+* Z-indexes
+*/
+

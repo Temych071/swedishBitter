@@ -1,0 +1,14 @@
+/bitrix
+/upload
+/web.config
+node_modules
+public
+/phpinfo.php
+/.vscode
+*.log
+*.tar.gz
+*.tar
+*.zip
+.DS_Store
+.idea/
+*.swp 

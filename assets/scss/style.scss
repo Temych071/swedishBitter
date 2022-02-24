@@ -1,0 +1,38 @@
+/**
+* Vendors
+*/
+// Пример подключения плагинов
+// @import "~plugin-name.scss";
+
+
+/**
+* Abstracts
+*/
+@import "abstracts/functions";
+@import "abstracts/variables";
+@import "abstracts/mixins";
+
+/**
+* Base
+*/
+@import "base/fonts";
+@import "base/general";
+
+
+
+/*
+* Components
+*/
+//  Пример подключения стилей блоков
+// @import "components/my-block";
+
+
+/* @import "blocks/container";
+@import "blocks/icon";
+@import "blocks/link";
+
+@import "blocks/header";
+@import "blocks/footer";
+
+@import "blocks/profile";
+@import "blocks/search"; */
